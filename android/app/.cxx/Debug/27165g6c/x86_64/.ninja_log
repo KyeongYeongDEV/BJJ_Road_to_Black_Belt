@@ -1,0 +1,5 @@
+# ninja log v5
+1	12	0	/Users/user/Downloads/BJJ_Road_to_Black_Belt/android/app/.cxx/Debug/27165g6c/x86_64/CMakeFiles/cmake.verify_globs	5edbc02765e86c4e
+0	1184	1746428827907080728	CMakeFiles/appmodules.dir/Users/user/Downloads/BJJ_Road_to_Black_Belt/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d56115737329ff74
+0	1307	1746428828029493711	CMakeFiles/appmodules.dir/OnLoad.cpp.o	89e53907b3d167d8
+1308	1373	1746428828099635648	/Users/user/Downloads/BJJ_Road_to_Black_Belt/android/app/build/intermediates/cxx/Debug/27165g6c/obj/x86_64/libappmodules.so	eec4616de7b06381

@@ -1,0 +1,55 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+yarn-error.log
+npm-debug.log
+
+# Metro / bundler cache
+.expo/
+.expo-shared/
+.expo-cache/
+.packager/
+__generated__/
+*.expo
+
+# React Native specific
+ios/Pods/
+ios/Podfile.lock
+ios/build/
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/local.properties
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Env and credentials
+.env
+.env.*.local
+
+# Firebase & Google services (optional)
+android/app/google-services.json
+ios/GoogleService-Info.plist
+
+# Misc
+*.keystore
+*.jks
+
+# Tailwind (if using NativeWind)
+.tailwind/
+
+# TypeScript
+*.tsbuildinfo
+
+# ESLint cache
+.eslintcache
